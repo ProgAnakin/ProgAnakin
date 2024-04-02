@@ -18,23 +18,15 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-060707?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-060707?style=for-the-badge&logo=mysql&logoColor=white" />
     <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-060707?style=for-the-badge" />
-    <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-060707?style=for-the-badge&logo=swift&logoColor=white" />
-    
-    
-</div> </br>
+    <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-060707?style=for-the-badge&logo=swift&logoColor=white" /> </div> </br>
 
-<img align="right" alt="Coding" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&hide_progress=compact&title_color=060707&text_color=060707&layout=compact&border_color=060707">
+<img width="20%" alt="CurrentStudies" align="left" src="https://cdn.discordapp.com/attachments/1184505245234106520/1224827014049955911/Current_Studies.png?ex=661ee80c&is=660c730c&hm=9968dcd0fce3f49d834f7a9a5bdec173822a930f645745073d17666a8230cce4&">
+<img style="margin-left:480px; margin-top:-40px " alt="MosUsedLanguages" width=35.5% src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&hide_progress=compact&title_color=060707&text_color=060707&layout=compact&border_color=060707"> 
 
-<h2 align="lef"> Current studies: </h2> 
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block; margin-top:-150px" ><br>
   <img align="center" alt="Anakin-HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="Anakin-CSS3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Anakin-Javascript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anakin-Typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="Anakin-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Anakin-Sass" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-  
-
-
-
