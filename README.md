@@ -23,7 +23,7 @@
 
 <p>
     <img width="175" alt="CurrentStudies" src="https://media.discordapp.net/attachments/1184505245234106520/1224827014049955911/Current_Studies.png?ex=661ee80c&is=660c730c&hm=9968dcd0fce3f49d834f7a9a5bdec173822a930f645745073d17666a8230cce4&=&format=webp&quality=lossless"> 
-    <img align="right" height="1" width="220"src="https://camo.githubusercontent.com/9485eb85e98b5b6ccec8e16dc28a278283ad020fdd8fde03c22fe2be6539816b/68747470733a2f2f6173736574732e6a756d7073656c6c65722e636f6d2f73746f72652f696e636f6d706c657465706f727472616974732f7468656d65732f3130313636362f6f7074696f6e732f323936333634322f53454d2532304e4144412e706e673f31353233373431303030">
+    <img align="right" height="1" width="120"src="https://camo.githubusercontent.com/9485eb85e98b5b6ccec8e16dc28a278283ad020fdd8fde03c22fe2be6539816b/68747470733a2f2f6173736574732e6a756d7073656c6c65722e636f6d2f73746f72652f696e636f6d706c657465706f727472616974732f7468656d65732f3130313636362f6f7074696f6e732f323936333634322f53454d2532304e4144412e706e673f31353233373431303030">
     <img align="right"  alt="MosUsedLanguages" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&hide_progress=compact&title_color=060707&text_color=060707&layout=compact&border_color=060707"> 
     
    
