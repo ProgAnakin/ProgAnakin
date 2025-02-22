@@ -8,11 +8,11 @@
 
 ![Anakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgAnakin&show_icons=true&icon_color=060707&border_color=060707&title_color=060707&text_color=060707&ring_color=060707&custom_title=Anakin_Stats&hide=contribs,issues) <img alt="Anakin" src="https://cdn.discordapp.com/attachments/1184505709363204289/1224706064310734950/ANAKIN.gif?ex=661e7767&is=660c0267&hm=c14a58516d0508dba0f346d2193cccabed6c052caa48318a14c7c8327b83241d&">
 
-<div style="display: flex; align-items: center;">
-   <a href="https://www.alura.com.br/usuario/seuperfil" style="display: inline-flex; align-items: center; text-decoration: none;">
-    <img src="https://cdn.discordapp.com/attachments/1184505245234106520/1342902703323353240/AluraIcon.png?ex=67bb531a&is=67ba019a&hm=f8acdba31e0a201ecf36171ba52289e251f3ee69767bf29f4917ba1eb9ec82ac" alt="Ícone da Alura" style="width: 80px; margin-right: 20px;">
-  </a>
-    <img src="https://cdn.discordapp.com/attachments/1184505245234106520/1342909918809948253/xC2TSCQBhYAAAAABJRU5ErkJggg.png?ex=67bb59d2&is=67ba0852&hm=9cb8506bbe6a68b0035087f860b82abecdb8380a7b0848115a76eac37e6196e5&" alt="Ícone da Alura" style="width: 100px;">
+<div style="display: flex;>
+      <a href="https://www.alura.com.br/usuario/seuperfil" style="display: flex; text-decoration: none;">
+       <img src="https://cdn.discordapp.com/attachments/1184505245234106520/1342902703323353240/AluraIcon.png?ex=67bb531a&is=67ba019a&hm=f8acdba31e0a201ecf36171ba52289e251f3ee69767bf29f4917ba1eb9ec82ac" alt="Ícone da Alura" style="width: 80px; margin-            right:20px;">
+      </a>
+   <img src="https://cdn.discordapp.com/attachments/1184505245234106520/1342909918809948253/xC2TSCQBhYAAAAABJRU5ErkJggg.png?ex=67bb59d2&is=67ba0852&hm=9cb8506bbe6a68b0035087f860b82abecdb8380a7b0848115a76eac37e6196e5&" alt="Ícone da Alura" style="width:       100px;">
 </div>
 
 ## Favorite technologies 💻
