@@ -8,6 +8,8 @@
 
 ![Anakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgAnakin&show_icons=true&icon_color=060707&border_color=060707&title_color=060707&text_color=060707&ring_color=060707&custom_title=Anakin_Stats&hide=contribs,issues) <img alt="Anakin" src="https://cdn.discordapp.com/attachments/1184505709363204289/1224706064310734950/ANAKIN.gif?ex=661e7767&is=660c0267&hm=c14a58516d0508dba0f346d2193cccabed6c052caa48318a14c7c8327b83241d&">
 
+https://cursos.alura.com.br/user/Anakin
+
 ## Favorite technologies 💻
 
 <div align="left" style="display: inline_block"> 
