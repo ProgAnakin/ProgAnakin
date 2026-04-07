@@ -52,28 +52,19 @@ public class Costanzo {
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ProgAnakin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=stats&hide=issues" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ProgAnakin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=stats&hide=issues" />
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
-</picture>
+![Costanzo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ProgAnakin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=stats&hide=issues)
 
-<br/><br/>
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgAnakin&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ProgAnakin&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-  <img width="60%" src="https://streak-stats.demolab.com?user=ProgAnakin&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-</picture>
+<br/>
 
-<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=ProgAnakin&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=ProgAnakin&bg_color=0d1117&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=21262d&hide_border=true&radius=6" />
+<br/>
 
-<br/><br/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgAnakin&bg_color=0d1117&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=21262d&hide_border=true&radius=6)
+
+<br/>
 
 ---
 
