@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=hey%2C+i'm+costanzo." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Anakin." alt="Typing SVG" />
 
 <br/>
 
