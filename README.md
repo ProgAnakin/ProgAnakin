@@ -1,45 +1,143 @@
-##  Hello, I'm Anakin🗡️
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
-[![Blog](https://img.shields.io/badge/Blogger-060707?style=for-the-badge&logo=blogger&logoColor=white)]() 
-[![Youtube](https://img.shields.io/badge/YouTube-060707?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Anakin.V4) 
-[![Instagram](https://img.shields.io/badge/Instagram-060707?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anakin.v4) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-060707?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costanzo-annichini-53903b2b7/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-060707.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)]()
+<div align="center">
 
-![Anakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProgAnakin&show_icons=true&icon_color=060707&border_color=060707&title_color=060707&text_color=060707&ring_color=060707&custom_title=Anakin_Stats&hide=contribs,issues) <img alt="Anakin" src="https://cdn.discordapp.com/attachments/1184505709363204289/1224706064310734950/ANAKIN.gif?ex=661e7767&is=660c0267&hm=c14a58516d0508dba0f346d2193cccabed6c052caa48318a14c7c8327b83241d&">
+# Costanzo Annichini
 
-<div style="display: flex;">
-   <img src="https://cdn.discordapp.com/attachments/1184505245234106520/1342931263589322792/AluraProcess.png?ex=67bb6db3&is=67ba1c33&hm=6ed2ebd929151f7e8747d72d2dfc7b917292d517d26af46856e0f3ca4fdd25f6&" alt="Ícone da Alura" style="width:       150px;">
-      <a href="https://cursos.alura.com.br/user/Anakin" style="display: flex; text-decoration: none;">
-       <img src="https://cdn.discordapp.com/attachments/1184505245234106520/1342902703323353240/AluraIcon.png?ex=67bb531a&is=67ba019a&hm=f8acdba31e0a201ecf36171ba52289e251f3ee69767bf29f4917ba1eb9ec82ac" alt="Ícone da Alura" style="width: 100px; margin-            right:20px;">
-      </a>
+**`Tech-Driven Business Professional | Sales & Digital Strategy`**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Bridging+technology+and+business+strategy;Multicultural+mindset+%7C+4+languages;From+code+to+customer+experience;Building+scalable+solutions" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costanzo-annichini-53903b2b7/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anakin.v4)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Anakin.V4)
+
 </div>
 
-## Favorite technologies 💻
+---
 
-<div align="left" style="display: inline_block"> 
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-060707?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-060707?&style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-060707?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img align="center" alt="react" src="https://img.shields.io/badge/React-060707?style=for-the-badge&logo=react&logoColor=white" />
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-060707?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-060707?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img align="center" alt="ExpressJS" src="https://img.shields.io/badge/Express.js-060707?style=for-the-badge" />
-    <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-060707?style=for-the-badge&logo=swift&logoColor=white" /> </div> </br>
-  
+## About
 
-<p>
-    <img width="175" alt="CurrentStudies" src="https://media.discordapp.net/attachments/1184505245234106520/1224827014049955911/Current_Studies.png?ex=661ee80c&is=660c730c&hm=9968dcd0fce3f49d834f7a9a5bdec173822a930f645745073d17666a8230cce4&=&format=webp&quality=lossless"> 
-    <img align="right" height="1" width="60"src="https://camo.githubusercontent.com/9485eb85e98b5b6ccec8e16dc28a278283ad020fdd8fde03c22fe2be6539816b/68747470733a2f2f6173736574732e6a756d7073656c6c65722e636f6d2f73746f72652f696e636f6d706c657465706f727472616974732f7468656d65732f3130313636362f6f7074696f6e732f323936333634322f53454d2532304e4144412e706e673f31353233373431303030">
-    <img align="right"  alt="MosUsedLanguages" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&hide_progress=compact&title_color=060707&text_color=060707&layout=compact&border_color=060707"> 
-    
-   
-<div style="display: inline_block; margin-top: -120px" align="left">
-    <img align="center" alt="Anakin-HTML5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Anakin-CSS3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Anakin-Javascript" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Anakin-Typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-    <img align="center" alt="Anakin-React" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Anakin-Sass" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg">
-</div> 
-</p>
+23-year-old **Italian-Brazilian** professional based in **Milano, Italy** with a rare combination of technical programming background and hands-on commercial experience. I translate complex products into simple solutions — and complex ideas into real execution.
+
+```
+Location    → Milano, IT
+Role        → Sales Consultant & Operations | Webidoo Store
+Background  → Computer Science & Programming
+Focus       → Business Strategy, E-Commerce, Digital Products
+```
+
+---
+
+## Languages
+
+<div align="center">
+
+| Language | Level | |
+|:---|:---|:---|
+| **Italiano** | Native | ![](https://img.shields.io/badge/●●●●●-0d1117?style=flat-square) |
+| **Português** | Native | ![](https://img.shields.io/badge/●●●●●-0d1117?style=flat-square) |
+| **Español** | B2 | ![](https://img.shields.io/badge/●●●●○-0d1117?style=flat-square) |
+| **English** | B2 | ![](https://img.shields.io/badge/●●●●○-0d1117?style=flat-square) |
+| **Deutsch** | A1 | ![](https://img.shields.io/badge/●○○○○-0d1117?style=flat-square) |
+
+</div>
+
+---
+
+## Experience
+
+<details>
+<summary><b>Sales Consultant & Operations</b> — Webidoo Store, Milano</summary>
+<br/>
+
+> Right-hand to the store manager. Full ownership of customer journey, consultative sales, post-sale support, inventory management, and daily operations. Trusted by clients ranging from entrepreneurs to engineers for clear, effective communication of complex products.
+
+</details>
+
+<details>
+<summary><b>Sales Assistant</b> — JD Sports, Portugal</summary>
+<br/>
+
+> Retail sales in a fast-paced, high-volume environment. Customer engagement and product advisory.
+
+</details>
+
+<details>
+<summary><b>Warehouse Operator</b> — Amazon, Milano</summary>
+<br/>
+
+> Logistics operations at scale. Process optimization and inventory handling.
+
+</details>
+
+<details>
+<summary><b>Internships</b> — Digital Marketing, E-Commerce (Shopify), Industrial Automation</summary>
+<br/>
+
+> Early exposure to digital product ecosystems, marketing funnels, and automation workflows.
+
+</details>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-0d1117?style=for-the-badge&logo=shopify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ProgAnakin&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF&custom_title=Stats&hide=contribs,issues" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgAnakin&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProgAnakin&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</div>
+
+---
+
+## What Drives Me
+
+```text
+→  Solving real problems, not just writing code
+→  Turning ideas into products people actually want
+→  Learning fast when the mission is clear
+→  Connecting people, technology, and business
+```
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ProgAnakin&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&area_color=58A6FF&hide_border=true" width="90%"/>
+</div>
+
+---
+
+<div align="center">
+
+**Open to opportunities in Sales, Business Development, Customer Experience & Tech.**
+
+[![Email](https://img.shields.io/badge/Let's_Talk-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:costanzo.annichini@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costanzo-annichini-53903b2b7/)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
