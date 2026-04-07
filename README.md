@@ -38,7 +38,7 @@ public class Costanzo {
 
 <div align="center">
 
-### stack
+### STACK
 
 <br/>
 
@@ -48,7 +48,7 @@ public class Costanzo {
 
 ---
 
-### github
+### GITHUB
 
 <br/>
 
@@ -57,6 +57,12 @@ public class Costanzo {
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgAnakin&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6)
 
 <br/>
+
+<br/><br/>
+
+---
+
+### STATS
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ProgAnakin&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
 
@@ -70,7 +76,7 @@ public class Costanzo {
 
 <br/>
 
-<sub>tech has always been part of how I see the world. this is where I build.</sub>
+<sub>Talent is nothing without the will to keep going...</sub>
 
 <br/><br/>
 
