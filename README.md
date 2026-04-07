@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=Costanzo%20Annichini&fontSize=42&fontColor=58A6FF&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=540&lines=Tech+is+not+what+I+do+—+it's+how+I+think.;Builder+mindset+%7C+IT+%2B+Business;Italo-Brazilian+%7C+Milano+%2F+Europe;Always+learning%2C+always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1200&color=8b949e&center=true&vCenter=true&width=540&lines=Tech+is+not+what+I+do+—+it's+how+I+think.;Builder+mindset+%7C+IT+%2B+Business;Italo-Brazilian+%7C+Milano+%2F+Europe;Always+learning%2C+always+shipping." alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-costanzo--annichini-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costanzo-annichini-53903b2b7/)
-[![Instagram](https://img.shields.io/badge/-anakin.v4-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/anakin.v4)
-[![YouTube](https://img.shields.io/badge/-Anakin.V4-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Anakin.V4)
-![Profile Views](https://komarev.com/ghpvc/?username=ProgAnakin&style=flat-square&color=58A6FF&label=profile+views)
+[![LinkedIn](https://img.shields.io/badge/-costanzo--annichini-c9d1d9?style=flat-square&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/costanzo-annichini-53903b2b7/)
+[![Instagram](https://img.shields.io/badge/-anakin.v4-c9d1d9?style=flat-square&logo=instagram&logoColor=0d1117)](https://www.instagram.com/anakin.v4)
+[![YouTube](https://img.shields.io/badge/-Anakin.V4-c9d1d9?style=flat-square&logo=youtube&logoColor=0d1117)](https://www.youtube.com/@Anakin.V4)
+![Profile Views](https://komarev.com/ghpvc/?username=ProgAnakin&style=flat-square&color=8b949e&label=views)
 
 </div>
 
