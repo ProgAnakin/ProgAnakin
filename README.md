@@ -1,53 +1,83 @@
-<h1 align="center">Costanzo Annichini</h1>
-<h3 align="center">Builder | Milan → Dublin 🇮🇪</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/costanzoannichini">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:coatanzo2@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=500&lines=hey%2C+i'm+Anakin." alt="Typing SVG" />
 
-## What I ship
+<br/>
 
-### Webi-Match — AI Product Matching Kiosk
-> Live in production · 4 retail stores · Milan
+[![LinkedIn](https://img.shields.io/badge/linkedin-c9d1d9?style=flat-square&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/costanzo-annichini-53903b2b7/)
+[![Instagram](https://img.shields.io/badge/instagram-c9d1d9?style=flat-square&logo=instagram&logoColor=0d1117)](https://www.instagram.com/anakin.v4)
+[![YouTube](https://img.shields.io/badge/youtube-c9d1d9?style=flat-square&logo=youtube&logoColor=0d1117)](https://www.youtube.com/@Anakin.V4)
 
-iPad kiosk that guides customers through 8 lifestyle questions via swipe
-and returns a personalised product recommendation with compatibility score,
-discount code, and consultant video.
+<br/>
 
-**Stack:** React · TypeScript · Supabase · Tailwind CSS · Framer Motion · Vercel
-
-→ [View Repository](https://github.com/ProgAnakin/webi-match)
+</div>
 
 ---
 
-### PAP — Mobile App
-> School final project · Built at 18 · Full UI/UX in Figma
+```java
+public class Costanzo {
 
-Flutter/Dart mobile app. Every screen designed in Figma before
-a single line of code was written.
+    String[] languages  = { "Italiano", "Portugues", "Espanol", "English" };
+    String   location   = "Milano, Italy";
+    String   mindset    = "Build > Learn > Iterate";
 
-**Stack:** Flutter · Dart · Figma · NoSQL
+    String[] exploring  = {
+        "Full-Stack Web Development",
+        "E-Commerce & Shopify ecosystems",
+        "Product strategy & UX thinking",
+        "Automation & scalable systems"
+    };
 
-→ [View Repository](https://github.com/ProgAnakin/PAP)
-
----
-
-### Pass-Generator
-> Vanilla JS · School coursework
-
-Password generator with custom length and character rules.
-
-**Stack:** HTML · CSS · JavaScript
-
-→ [View Repository](https://github.com/ProgAnakin/Pass-Generator)
+    String   goal = "Where technology meets business, that is where I operate.";
+}
+```
 
 ---
 
-## Stack
+<div align="center">
+
+### STACK
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,c,js,php,py,react,html,css,mysql,swift&theme=dark&perline=5" alt="Tech Stack" />
+
+<br/><br/>
+
+---
+
+### GITHUB
+
+<br/>
+
+![Costanzo's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ProgAnakin&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=8b949e&text_color=8b949e&ring_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=stats&hide=issues)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgAnakin&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6)
+
+<br/>
+
+<br/><br/>
+
+---
+
+### STATS
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ProgAnakin&theme=transparent&hide_border=true&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ProgAnakin&bg_color=0d1117&color=8b949e&line=c9d1d9&point=c9d1d9&area=true&area_color=21262d&hide_border=true&radius=6)
+
+<br/>
+
+---
+
+<br/>
+
+<sub>Talent is nothing without the will to keep going...</sub>
+
+<br/><br/>
+
+</div>
