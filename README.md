@@ -17,7 +17,7 @@
 ```java
 public class Costanzo {
 
-    String[] languages  = { "Italiano", "Portugues", "Espanol", "English" };
+    String[] languages  = { "Italian", "Portuguese", "Spanish", "English" };
     String   location   = "Milano → Dublin 🇮🇪";
     String   mindset    = "Build > Learn > Ship";
 
