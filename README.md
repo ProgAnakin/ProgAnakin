@@ -18,7 +18,7 @@
 public class Costanzo {
 
     String[] languages  = { "Italian", "Portuguese", "Spanish", "English" };
-    String   location   = "Milano -> Dublin";
+    String   location   = "Milano";
     String   mindset    = "Build > Learn > Ship";
 
     String[] exploring  = {
